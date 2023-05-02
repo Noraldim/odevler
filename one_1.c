@@ -1,4 +1,3 @@
-// Noraldim Kamis , 98716308905
 // https://github.com/Noraldim/odevler- ==> daha aciklama icin // README.md
 
  
