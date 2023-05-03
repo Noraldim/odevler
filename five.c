@@ -3,9 +3,9 @@
 #include <ctype.h>
 #include <stdlib.h>
 
-
+//int this program you can enter text and the program will convet the letter to revers 
 int main() {
-//
+
 	
 	char txt[300] ;
 	
