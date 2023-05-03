@@ -1,5 +1,5 @@
 // https://github.com/Noraldim/odevler- ==> daha aciklama icin // README.md
-
+// this will bild the perment of letter from top to down IN 
  
 #include <stdio.h>
 
