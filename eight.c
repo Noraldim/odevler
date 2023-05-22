@@ -4,6 +4,7 @@
 #include <string.h>
 
 //'Deneme.txt' dosyasi, kod dosyasiyla ayni dosyada olmalidir yoks ==> 'Kosya yoktur!' 
+//test file must be in the same directry 
 int main() {
 	int max = 50;
 	int x , y;
