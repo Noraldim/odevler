@@ -11,6 +11,7 @@ aksi halde harf azalır (harfler orta harften A'ya gider).
 Program daha sonra bir sonraki satırı başlatmak için yeni bir satır karakteri yazdırır ve bir sonraki satır için 
 A harfi ile baştan başlamak üzere ch değişkenini 'A' olarak sıfırlar.
 
+
 ## işlem : 
 
 ilk == A   , A++ ==> B  , B++ ==> C  :::   ...etc
