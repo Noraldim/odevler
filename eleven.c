@@ -8,7 +8,7 @@ struct data {
     char surname[16];
     int average;
 };
-
+// open the file on read mode 
 int main() {
     FILE* file = fopen("Ogrenciler.dat", "rb");
     if (file == NULL) {
