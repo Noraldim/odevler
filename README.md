@@ -17,4 +17,5 @@ A harfi ile baştan başlamak üzere ch değişkenini 'A' olarak sıfırlar.
 ilk == A   , A++ ==> B  , B++ ==> C  :::   ...etc
 D-- ==>C   , C-- ==> B  , B-- ==> A  :::   ...etc
 //this is just explain for one file
+
 //some complex consipt will be displayed here 🌐
